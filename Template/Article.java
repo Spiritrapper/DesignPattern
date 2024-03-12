@@ -1,5 +1,6 @@
 package Template;
 
+
 import java.util.ArrayList;
 
 public class Article {
