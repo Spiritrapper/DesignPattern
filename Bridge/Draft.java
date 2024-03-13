@@ -15,7 +15,7 @@ public class Draft {
         this.content = content;
     }
 
-    public void print(Display display) {
+    public void print(Display display) { // 순서대로 출력할 수 있는 메서드 구체적 구현은 디스플레이 인터페이스를 사용
         display.title(this);
         display.author(this);
         display.content(this);
