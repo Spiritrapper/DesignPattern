@@ -11,5 +11,5 @@ public abstract class Player {
         return name;
     }
 
-    public abstract void update(int diceNumber);
+    public abstract void update(int diceNumber); //주사위에 수가 상태변화
 }

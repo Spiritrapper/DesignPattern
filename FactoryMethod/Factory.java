@@ -2,7 +2,7 @@ package FactoryMethod;
 
 public abstract class Factory {
     public Item create(String name){
-        boolean bCreatable = this.isCreateable(name);
+        boolean bCreatable = this.isCreateable(name); // isCreatable, createItem, postprocessItem 모두 추상메서드
         if(bCreatable) {
             Item item = this.createItem(name);
             postprocessItem(name);

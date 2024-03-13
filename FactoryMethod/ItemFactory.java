@@ -23,14 +23,14 @@ public class ItemFactory extends Factory{
     }
     @Override
     public boolean isCreateable(String name) {
-        ItemData itemDate = repository.get(name);
+        ItemData itemData = repository.get(name);
 
-        if(itemDate == null) {
+        if(itemData == null) {
             System.out.println(name + "은 알 수 없는 아이템 입니다.");
             return false;
         }
 
-        if(itemDate.currentCount >= itemDate.maxCount) {
+        if(itemData.currentCount >= itemData.maxCount) {
             System.out.println(name + "은 품절 아이템입니다.");
             return false;
         }

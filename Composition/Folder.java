@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 public class Folder extends Unit {
-    private LinkedList<Unit> unitList = new LinkedList<Unit>();
+    private LinkedList<Unit> unitList = new LinkedList<Unit>(); // Folder 클래스는 Unit 객체를 포함하는 LinkedList : has-a 관계
 
     public Folder(String name) {
         super(name);

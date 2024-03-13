@@ -1,1 +1,0 @@
-GIS Developer 김형준님 영상보고 올립니다.
