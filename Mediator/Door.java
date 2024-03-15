@@ -9,7 +9,7 @@ public class Door extends Participant {
     }
 
     public void open() {
-        if(bClosed) return;
+        if(!bClosed) return;
         bClosed = false;
 
         mediator.participantChanged(this);
@@ -25,9 +25,10 @@ public class Door extends Participant {
         return bClosed;
     }
 
+    @Override
     public String toString() {
-        if(bClosed) return "문 : 닫힘";
-        else return "문 : 열림";
+        if(bClosed) return "# 문 : 닫힘";
+        else return "# 문 : 열림";
     }
 
 }
