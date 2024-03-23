@@ -3,7 +3,7 @@ package Facade;
 import java.util.HashMap;
 
 public class DBMS {
-    private HashMap<String, Row> db = new HashMap<String, R ow>();
+    private HashMap<String, Row> db = new HashMap<String, Row>();
 
     public DBMS() {
         db.put("jane", new Row("jane","1990-02-14", "jane22@fff.co.kr"));
