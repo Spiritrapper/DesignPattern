@@ -1,8 +1,8 @@
-package AbstractFactory;
+package 행위_AbstractFactory;
 
-public class WindowsTextEdit extends TextEdit{
+public class LinuxTextEdit extends TextEdit {
 
-    public WindowsTextEdit(String value) {
+    public LinuxTextEdit(String value) {
         super(value);
         //TODO Auto-generated constructor stub
     }
@@ -10,7 +10,7 @@ public class WindowsTextEdit extends TextEdit{
     @Override
     public void render() {
         System.out.println(
-            "Windows 렌더링 API를 이용해"
+            "Linux 렌더링 API를 이용해"
             + this.value + "값을 가진"
             + " 텍스트에디트를 그립니다."
         );

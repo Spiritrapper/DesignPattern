@@ -1,4 +1,4 @@
-package AbstractFactory;
+package 행위_AbstractFactory;
 
 public class WindowsFactory extends ComponentFactory{
 
