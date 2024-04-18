@@ -1,4 +1,4 @@
-package FactoryMethod;
+package 행위_FactoryMethod;
 
 import java.util.HashMap;
 

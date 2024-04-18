@@ -1,4 +1,4 @@
-package FactoryMethod;
+package 행위_FactoryMethod;
 
 public abstract class Factory {
     public Item create(String name){

@@ -1,4 +1,4 @@
-package FactoryMethod;
+package 행위_FactoryMethod;
 
 public class Shield implements Item{
 
