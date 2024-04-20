@@ -1,4 +1,4 @@
-package Adapter;
+package 구조_Adapter;
 
 public class Cat extends Animal{
 

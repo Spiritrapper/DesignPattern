@@ -1,4 +1,4 @@
-package Adapter;
+package 구조_Adapter;
 
 public abstract class Animal {
     protected String name;

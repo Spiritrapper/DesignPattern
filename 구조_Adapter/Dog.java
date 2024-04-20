@@ -1,5 +1,4 @@
-package Adapter;
-
+package 구조_Adapter;
 public class Dog extends Animal{
 
     public Dog(String name) {

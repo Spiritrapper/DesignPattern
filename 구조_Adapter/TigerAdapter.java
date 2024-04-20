@@ -1,4 +1,4 @@
-package Adapter;
+package 구조_Adapter;
 
 public class TigerAdapter extends Animal{
     private Tiger tiger;    //타이거 객체를 필드로 가지와서 타이거 클래스를 변경하지 않아도 타이거아탑터클래스를 통해 애니멀 클래스처럼사용
