@@ -1,4 +1,4 @@
-package Builder;
+package 행위_Builder;
 
 public class XMLBuilder extends Builder{
 

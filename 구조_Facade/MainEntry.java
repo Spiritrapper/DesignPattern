@@ -1,4 +1,4 @@
-package Facade;
+package 구조_Facade;
 
 public class MainEntry {
     public static void main(String[] args) {

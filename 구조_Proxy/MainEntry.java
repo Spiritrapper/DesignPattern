@@ -1,4 +1,4 @@
-package Proxy;
+package 구조_Proxy;
 
 public class MainEntry {
     public static void main(String[] args) {
