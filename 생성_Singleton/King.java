@@ -1,4 +1,4 @@
-package Singleton;
+package 생성_Singleton;
 
 public class King {
     private King(){} //private 객체생성 외부에서 생성 불가 // King king = new King(); //에러 불가

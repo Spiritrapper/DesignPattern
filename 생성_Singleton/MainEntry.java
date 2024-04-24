@@ -1,4 +1,4 @@
-package Singleton;
+package 생성_Singleton;
 
 public class MainEntry {
     public static void main(String[] args) {

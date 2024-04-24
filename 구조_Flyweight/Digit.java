@@ -1,4 +1,4 @@
-package Flyweight;
+package 구조_Flyweight;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
