@@ -1,4 +1,4 @@
-package Template;
+package 행위_Template;
 
 public abstract class DisplayArticleTemplate {
 

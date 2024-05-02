@@ -1,4 +1,4 @@
-package State;
+package 행위_State;
 
 public class StandUpState extends State{
 

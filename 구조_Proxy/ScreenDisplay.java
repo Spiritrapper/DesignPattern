@@ -1,4 +1,4 @@
-package Proxy;
+package 구조_Proxy;
 
 public class ScreenDisplay implements Display{
 

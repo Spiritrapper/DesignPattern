@@ -1,4 +1,4 @@
-package Interpreter;
+package 행위_Interpreter;
 
 public class LoopCommandExpression extends CommandExpression{
     private int count;

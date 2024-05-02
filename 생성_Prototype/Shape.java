@@ -1,4 +1,4 @@
-package Prototype;
+package 생성_Prototype;
 
 public interface Shape {
 

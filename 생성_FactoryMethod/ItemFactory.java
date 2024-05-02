@@ -1,4 +1,4 @@
-package 행위_FactoryMethod;
+package 생성_FactoryMethod;
 
 import java.util.HashMap;
 

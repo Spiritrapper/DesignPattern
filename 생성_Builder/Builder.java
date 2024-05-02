@@ -1,4 +1,4 @@
-package 행위_Builder;
+package 생성_Builder;
 
 public abstract class Builder {
     protected Data data;

@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 import java.util.Scanner;
 

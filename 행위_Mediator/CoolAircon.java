@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 public class CoolAircon extends Participant {
     private boolean bOff = true;

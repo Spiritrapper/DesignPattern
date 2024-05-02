@@ -1,4 +1,4 @@
-package Decorator;
+package 구조_Decorator;
 
 public abstract class Item {
     public abstract int getLinesCount();

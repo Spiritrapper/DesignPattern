@@ -1,4 +1,4 @@
-package Observer;
+package 행위_Observer;
 
 public class EvenBettingPlayer extends Player{
     public EvenBettingPlayer(String name) {

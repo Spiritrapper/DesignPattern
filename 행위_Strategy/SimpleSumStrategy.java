@@ -1,4 +1,4 @@
-package Strategy;
+package 행위_Strategy;
 
 // 이클래스가 구현해야할 인터페이스 지정
 public class SimpleSumStrategy implements SumStrategy{

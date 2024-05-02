@@ -1,4 +1,4 @@
-package Interpreter;
+package 행위_Interpreter;
 
 import java.util.StringTokenizer;
 

@@ -1,4 +1,4 @@
-package Strategy;
+package 행위_Strategy;
 
 public class SumPrinter {
     // n까지의 총합을 출력하는 프린트메소드

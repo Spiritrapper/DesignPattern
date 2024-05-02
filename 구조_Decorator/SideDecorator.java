@@ -1,4 +1,4 @@
-package Decorator;
+package 구조_Decorator;
 
 public class SideDecorator extends Decorator{
     private Character ch;

@@ -1,4 +1,4 @@
-package Prototype;
+package 생성_Prototype;
 
 public class Point implements Shape, Prototype{
     private int x;

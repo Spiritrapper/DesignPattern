@@ -1,4 +1,4 @@
-package Strategy;
+package 행위_Strategy;
 
 public class MainEntry {
     public static void main(String[] args) {

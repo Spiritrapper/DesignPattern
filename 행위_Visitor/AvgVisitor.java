@@ -1,4 +1,4 @@
-package Visitor;
+package 행위_Visitor;
 
 public class AvgVisitor implements Visitor{
     private int sum = 0;

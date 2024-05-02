@@ -1,4 +1,4 @@
-package Visitor;
+package 행위_Visitor;
 
 public class Item implements Unit{
     private int value;

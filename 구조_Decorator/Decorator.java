@@ -1,4 +1,4 @@
-package Decorator;
+package 구조_Decorator;
 
 public abstract class Decorator extends Item{
     protected Item item;

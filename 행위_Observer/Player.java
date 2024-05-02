@@ -1,4 +1,4 @@
-package Observer;
+package 행위_Observer;
 
 public abstract class Player {
     private String name;

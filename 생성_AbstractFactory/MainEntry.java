@@ -1,4 +1,4 @@
-package 행위_AbstractFactory;
+package 생성_AbstractFactory;
 
 public class MainEntry {
     public static void main(String[] args) {

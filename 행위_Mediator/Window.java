@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 public class Window extends Participant{
     private boolean bClosed = true;

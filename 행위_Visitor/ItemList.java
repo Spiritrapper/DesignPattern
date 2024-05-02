@@ -1,4 +1,4 @@
-package Visitor;
+package 행위_Visitor;
 
 import java.util.ArrayList;
 import java.util.Iterator;

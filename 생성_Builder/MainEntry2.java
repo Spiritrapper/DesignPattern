@@ -1,4 +1,4 @@
-package 행위_Builder;
+package 생성_Builder;
 
 public class MainEntry2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Bridge;
+package 구조_Bridge;
 
 public class CaptionDisplay implements Display{
 

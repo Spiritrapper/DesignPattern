@@ -1,4 +1,4 @@
-package Prototype;
+package 생성_Prototype;
 
 public class MainEntry {
     public static void main(String[] args) {

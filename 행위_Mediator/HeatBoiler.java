@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 public class HeatBoiler extends Participant{
     private boolean bOff = true;

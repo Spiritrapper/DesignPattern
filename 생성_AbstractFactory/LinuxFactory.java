@@ -1,4 +1,4 @@
-package AbstractFactory;
+package 생성_AbstractFactory;
 
 public class LinuxFactory extends ComponentFactory{
 

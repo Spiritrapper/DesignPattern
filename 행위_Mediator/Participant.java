@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 public abstract class Participant {
     protected Mediator mediator;

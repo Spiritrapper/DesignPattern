@@ -1,4 +1,4 @@
-package Memento;
+package 행위_Memento;
 
 import java.util.Random;
 

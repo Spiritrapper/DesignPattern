@@ -1,4 +1,4 @@
-package Prototype;
+package 생성_Prototype;
 
 public class Line implements Shape, Prototype{
     private Point startPt;

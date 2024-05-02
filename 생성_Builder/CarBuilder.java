@@ -1,4 +1,4 @@
-package 행위_Builder;
+package 생성_Builder;
 
 public class CarBuilder {
     private String engine; // 엔진

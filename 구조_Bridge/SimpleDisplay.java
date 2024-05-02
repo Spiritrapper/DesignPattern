@@ -1,4 +1,4 @@
-package Bridge;
+package 구조_Bridge;
 
 public class SimpleDisplay implements Display  {
 

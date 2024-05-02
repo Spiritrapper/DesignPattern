@@ -1,4 +1,4 @@
-package Interpreter;
+package 행위_Interpreter;
 
 public abstract class CommandExpression implements Expression {
     protected String keyword;

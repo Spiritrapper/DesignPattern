@@ -1,4 +1,4 @@
-package AbstractFactory;
+package 생성_AbstractFactory;
 
 public abstract class CheckBox {
     protected boolean bChecked;

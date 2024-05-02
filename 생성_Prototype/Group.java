@@ -1,4 +1,4 @@
-package Prototype;
+package 생성_Prototype;
 
 import java.util.ArrayList;
 import java.util.Iterator;

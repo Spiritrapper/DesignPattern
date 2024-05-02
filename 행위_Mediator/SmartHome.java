@@ -1,4 +1,4 @@
-package Mediator;
+package 행위_Mediator;
 
 public class SmartHome implements Mediator{
     public Door door = new Door(this);

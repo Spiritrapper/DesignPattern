@@ -1,4 +1,4 @@
-package Composition;
+package 구조_Composition;
 
 public abstract class Unit {
     private String name;

@@ -1,4 +1,4 @@
-package Interpreter;
+package 행위_Interpreter;
 
 public class MainEntry {
     public static void main(String[] args) {

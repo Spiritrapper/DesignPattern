@@ -1,4 +1,4 @@
-package Decorator;
+package 구조_Decorator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

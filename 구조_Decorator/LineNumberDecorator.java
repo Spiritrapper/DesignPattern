@@ -1,4 +1,4 @@
-package Decorator;
+package 구조_Decorator;
 
 public class LineNumberDecorator extends Decorator {
 

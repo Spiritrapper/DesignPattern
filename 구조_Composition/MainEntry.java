@@ -1,4 +1,4 @@
-package Composition;
+package 구조_Composition;
 
 public class MainEntry {
     public static void main(String[] args) {

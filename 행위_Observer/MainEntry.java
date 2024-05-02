@@ -1,4 +1,4 @@
-package Observer;
+package 행위_Observer;
 
 public class MainEntry {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Composition;
+package 구조_Composition;
 
 public class File extends Unit{
     private int size;

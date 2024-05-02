@@ -1,4 +1,4 @@
-package Composition;
+package 구조_Composition;
 
 import java.util.Iterator;
 import java.util.LinkedList;

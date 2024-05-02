@@ -1,4 +1,4 @@
-package 행위_AbstractFactory;
+package 생성_AbstractFactory;
 
 public abstract class TextEdit {
     protected String value;

@@ -1,4 +1,4 @@
-package Observer;
+package 행위_Observer;
 
 import java.util.LinkedList;
 

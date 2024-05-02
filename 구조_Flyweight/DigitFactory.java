@@ -1,4 +1,4 @@
-package Flyweight;
+package 구조_Flyweight;
 
 public class DigitFactory { // 누군가 원하는 숫자를 디지트객체에 요청하면 해당 객체를 전달해주는 기능담당
     private Digit[] pool  = new Digit[] { // 10개의 디지트 객체를 담을수 있는 배열 추가

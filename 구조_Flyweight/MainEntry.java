@@ -1,4 +1,4 @@
-package Flyweight;
+package 구조_Flyweight;
 
 public class MainEntry {
     public static void main(String[] args) {

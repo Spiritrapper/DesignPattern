@@ -1,4 +1,4 @@
-package Proxy;
+package 구조_Proxy;
 
 import java.util.ArrayList;
 
