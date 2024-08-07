@@ -12,7 +12,7 @@ public class TigerAdapter extends Animal{
 
     @Override
     public void sound() {
-        System.out.println(tiger.getName() + " ");
+        System.out.println(tiger.getName() + "ggggrrr" );
         tiger.roar();
     }
     

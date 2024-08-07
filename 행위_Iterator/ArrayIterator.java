@@ -1,4 +1,4 @@
-package Iterator;
+package 행위_Iterator;
 
 public class ArrayIterator implements Iterator{
     private Array array; // array클래스의 객체를 필드로 참조해야하므로 

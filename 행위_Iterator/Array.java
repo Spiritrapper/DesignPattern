@@ -1,4 +1,4 @@
-package Iterator;
+package 행위_Iterator;
 
 public class Array implements Aggregator {
     private Item[] items;

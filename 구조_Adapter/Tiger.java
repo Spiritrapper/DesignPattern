@@ -12,7 +12,7 @@ public class Tiger {
     }
 
     void roar() {
-        System.out.println("growl");
+        System.out.println( "growl");
     }
     
 }

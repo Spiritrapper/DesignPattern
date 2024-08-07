@@ -1,4 +1,4 @@
-package Iterator;
+package 행위_Iterator;
 public class MainEntry {
     
     public static void main(String[] args) {
