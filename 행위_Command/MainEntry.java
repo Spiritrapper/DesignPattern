@@ -1,4 +1,4 @@
-package Command;
+package 행위_Command;
 
 public class MainEntry {
     public static void main(String[] args) {

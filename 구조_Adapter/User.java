@@ -10,6 +10,7 @@ public class User {
         animals.add(new Cat("솜털이"));
         animals.add(new Cat("츄츄"));
         animals.add(new TigerAdapter("타이온"));
+        animals.add(new TigerAdapter("ff"));
 
 
         animals.forEach(animal -> {

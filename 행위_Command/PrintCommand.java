@@ -1,4 +1,4 @@
-package Command;
+package 행위_Command;
 
 public class PrintCommand implements Command{
     private String content;

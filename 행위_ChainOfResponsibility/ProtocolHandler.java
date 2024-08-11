@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package 행위_ChainOfResponsibility;
 
 public class ProtocolHandler extends Handler{
 

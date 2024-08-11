@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package 행위_ChainOfResponsibility;
 
 public class MainEntry {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Command;
+package 행위_Command;
 
 public class MoveCommand implements Command{
     private int x;

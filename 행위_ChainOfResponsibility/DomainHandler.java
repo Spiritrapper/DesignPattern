@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package 행위_ChainOfResponsibility;
 
 public class DomainHandler extends Handler{
 
